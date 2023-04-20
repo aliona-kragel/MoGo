@@ -545,6 +545,10 @@
 @media(max-width: 770px){
 
   /* BANNER */
+  
+  .banner {
+    height: 100vh;
+  }
 
   .header__logo {
     padding-top: 25px;
